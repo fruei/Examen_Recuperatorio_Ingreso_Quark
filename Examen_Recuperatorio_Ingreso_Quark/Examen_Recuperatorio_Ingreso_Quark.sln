@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_Recuperatorio_Ingreso_Quark", "Examen_Recuperatorio_Ingreso_Quark.csproj", "{E669C773-C6DF-4A80-9111-9DC36724D5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E669C773-C6DF-4A80-9111-9DC36724D5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E669C773-C6DF-4A80-9111-9DC36724D5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E669C773-C6DF-4A80-9111-9DC36724D5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E669C773-C6DF-4A80-9111-9DC36724D5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFBADD73-BFF8-4D99-8B3D-0C81D15DB9E9}
+	EndGlobalSection
+EndGlobal
